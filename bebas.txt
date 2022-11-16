@@ -28,3 +28,7 @@ $ git restore bebas.txt = untuk mengembalikan fiole yg udh d ubah sblum commit
 git branch main tidak boleh ada eror
 git brang develop untuk developer
 git branch hotfix untuk perubahan main
+
+git branch features/nama-fitur
+git checkout develop untuk pindah branch ke develop
+git checkout -b namaBranchBaru main = buat branch baru dan langung msuk k yg baru dan d ambil dari branch main
