@@ -11,7 +11,12 @@ $ git commit -m "latihan git
 > 3. hapus
 > 4. cari"
 
+<<<<<<< Updated upstream
 baru
+=======
+git diff untuk mengetahui perubahan file
+atau git diff NAMA_FILE
+>>>>>>> Stashed changes
 
 git config untuk konfigurasi
 git config user.name "nama"= unutk ubah nama author
@@ -19,3 +24,7 @@ git config user.email "email" = untuk ubah nama email
 $ git config --global user.name "faiz" = ini untuk konfigurasi global, lebih baik pakai ini
 
 $ git restore bebas.txt = untuk mengembalikan fiole yg udh d ubah sblum commit
+
+git branch main tidak boleh ada eror
+git brang develop untuk developer
+git branch hotfix untuk perubahan main
