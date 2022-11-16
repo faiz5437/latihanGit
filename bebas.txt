@@ -1,3 +1,18 @@
 git add NAMA_FILE  = untuk mengcomit file
 git add -A  = untuk mengcomit semua file dalam folder
+git add .  = untuk mengcomit semua file dalam folder
 git rm --cached NAMA_FILE = untuk mengembalikan commit
+git rm --cached * atau = untuk mengembalikan semua commit dalam folder
+
+ini untuk commit
+$ git commit -m "latihan git
+> 1. tambah
+> 2. ubah
+> 3. hapus
+> 4. cari"
+
+git config untuk konfigurasi
+git config user.name "nama"= unutk ubah nama author
+git config user.email "email" = untuk ubah nama email
+$ git config --global user.name "faiz" = ini untuk konfigurasi global, lebih baik pakai ini
+
