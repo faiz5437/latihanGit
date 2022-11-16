@@ -11,8 +11,10 @@ $ git commit -m "latihan git
 > 3. hapus
 > 4. cari"
 
+
 git config untuk konfigurasi
 git config user.name "nama"= unutk ubah nama author
 git config user.email "email" = untuk ubah nama email
 $ git config --global user.name "faiz" = ini untuk konfigurasi global, lebih baik pakai ini
 
+$ git restore bebas.txt = untuk mengembalikan fiole yg udh d ubah sblum commit
