@@ -19,3 +19,6 @@ git config user.email "email" = untuk ubah nama email
 $ git config --global user.name "faiz" = ini untuk konfigurasi global, lebih baik pakai ini
 
 $ git restore bebas.txt = untuk mengembalikan fiole yg udh d ubah sblum commit
+
+git commit -am "pesan" = untuk git add dan commit skaligus
+
