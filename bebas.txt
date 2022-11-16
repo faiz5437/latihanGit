@@ -32,3 +32,5 @@ git branch hotfix untuk perubahan main
 git branch features/nama-fitur
 git checkout develop untuk pindah branch ke develop
 git checkout -b namaBranchBaru main = buat branch baru dan langung msuk k yg baru dan d ambil dari branch main
+
+ssh-keygen untuk konfigurasi ssh
