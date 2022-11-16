@@ -11,6 +11,7 @@ $ git commit -m "latihan git
 > 3. hapus
 > 4. cari"
 
+baru
 
 git config untuk konfigurasi
 git config user.name "nama"= unutk ubah nama author
